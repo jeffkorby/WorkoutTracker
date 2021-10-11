@@ -16,4 +16,4 @@ I should also be able to track the name, type, weight, sets, reps, and duration 
 If the exercise is a cardio exercise, I should be able to track my distance traveled
 
 
-## [Heroku-deployment](https://rocky-forest-00159.herokuapp.com/)
+[Heroku-deployment](https://rocky-forest-00159.herokuapp.com/)
