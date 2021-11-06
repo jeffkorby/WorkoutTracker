@@ -1,5 +1,8 @@
 # WorkoutTracker
 
+## Description
+An application to track your fitness and workouts. Input your exercises and get statistics back based on what workouts you have completed.
+
 ```md
 Track your fitness with this app.
 Add exercices to your most recent workout plan.
